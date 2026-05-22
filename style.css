@@ -1,0 +1,24 @@
+/* Custom Premium Styles */
+.card {
+    border-radius: 12px;
+    border: 1px solid rgba(0,0,0,0.08);
+}
+.navbar {
+    border-bottom: 2px solid #1b5e20;
+}
+.btn-primary {
+    font-weight: 500;
+}
+.table thead {
+    background-color: #f8f9fa;
+}
+.badge {
+    font-weight: 500;
+    padding: 0.5em 0.8em;
+}
+@media (max-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

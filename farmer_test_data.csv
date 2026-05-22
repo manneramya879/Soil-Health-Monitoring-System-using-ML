@@ -1,0 +1,11 @@
+Nitrogen,Phosphorous,Potassium,Temperature,Humidity,Moisture,Soil_Type,Crop_Type,Expected_Result
+85,65,60,25,70,60,Loamy,Maize,Good
+45,35,30,28,60,45,Loamy,Wheat,Moderate
+10,12,8,35,40,20,Sandy,Cotton,Poor
+90,70,65,24,75,65,Black,Paddy,Good
+20,25,20,30,55,30,Red,Millets,Poor
+55,40,35,26,65,50,Clayey,Pulses,Moderate
+100,80,75,22,80,70,Loamy,Sugarcane,Good
+15,10,10,32,45,25,Sandy,Barley,Poor
+40,30,25,27,62,40,Red,Ground Nuts,Moderate
+12,15,10,33,35,15,Sandy,Tobacco,Poor
